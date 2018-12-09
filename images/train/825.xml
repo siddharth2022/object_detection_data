@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cs</folder>
+	<filename>825.jpg</filename>
+	<path>F:\cs\825.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>850</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>614</xmin>
+			<ymin>340</ymin>
+			<xmax>673</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>
